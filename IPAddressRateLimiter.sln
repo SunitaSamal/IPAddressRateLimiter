@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddressRateLimiter", "IPAddressRateLimiter\IPAddressRateLimiter.csproj", "{01743F09-1F01-4992-93C0-CF474FF703C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAddressRateLimiterUsingAttribute", "IPAddressRateLimiterUsingAttribute\IPAddressRateLimiterUsingAttribute.csproj", "{DA0B4714-4132-4209-827F-B3F1759CFD07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01743F09-1F01-4992-93C0-CF474FF703C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01743F09-1F01-4992-93C0-CF474FF703C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01743F09-1F01-4992-93C0-CF474FF703C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01743F09-1F01-4992-93C0-CF474FF703C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0B4714-4132-4209-827F-B3F1759CFD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0B4714-4132-4209-827F-B3F1759CFD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0B4714-4132-4209-827F-B3F1759CFD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0B4714-4132-4209-827F-B3F1759CFD07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C478A05F-0AC1-4352-84FF-3566C0A551F2}
+	EndGlobalSection
+EndGlobal
