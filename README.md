@@ -1,3 +1,7 @@
 # IPAddressRateLimiter
 
-Project is using AspNetCoreRateLimit nuget package to have rate limit on IP Address. There could be 10 requests per second.
+The Project is a demonstration of middleware for rate limit on IP Address. Original requirement is have 10 requests per second. The requests are cached using Redis. The Project is using below nuget packages: 
+AspNetCoreRateLimit,
+AspNetCoreRateLimit.Redis.
+
+Swashbuckle.AspNetCore is used to configure Swagger page for the API.
